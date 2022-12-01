@@ -1,5 +1,4 @@
 import { substraction } from "./substraction"
-
 describe('substraction unit tests', () => {
     
     it('Should subs 0 - 2 = -2', () => {
@@ -41,5 +40,4 @@ describe('substraction unit tests', () => {
         // Assert
         expect(result).toBe(2.0);
     })
-
 })
