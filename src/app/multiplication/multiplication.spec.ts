@@ -1,5 +1,4 @@
 import { multiplication } from "./multiplication"
-
 describe('multiplication unit tests', () => {
     
     it('Should mul 2 * 4 = 8', () => {
@@ -41,5 +40,4 @@ describe('multiplication unit tests', () => {
         // Assert
         expect(result).toBe(3.0);
     })
-
 })

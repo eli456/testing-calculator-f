@@ -1,5 +1,7 @@
 export function multiplication(oper1, oper2) {  
-   // refactoring
+  
+    // refactoring
     let mul = oper1 * oper2;
     return mul;
+
 }
