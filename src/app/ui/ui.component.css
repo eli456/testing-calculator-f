@@ -1,0 +1,61 @@
+.calculator {
+    width: 150px;
+    text-align: center;
+    color: #99CCFF ;
+}
+
+.result {
+    font-size: 3.0em;
+    font-weight: bold;
+    color: #000066  ;
+
+}
+
+.operator1 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: black;
+
+}
+
+.operator2 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #000000 ;
+
+}
+
+.addition-button {
+    cursor: pointer;
+    color: #9C27B0 ;
+}
+
+.substraction-button {
+    cursor: pointer;
+    color: #E53935 ;
+}
+
+.multiplication-button {
+    cursor: pointer;
+    color:  #FF0066;
+}
+
+.division-button {
+    cursor: pointer;
+    color:  #C2185B;
+}
+
+.exp-button {
+    cursor: pointer;
+    color: #009900 ;
+}
+
+.sqr-button {
+    cursor: pointer;
+    color:  #B71C1C;
+}
+
+.sqrt-button {
+    cursor: pointer;
+    color:  #004D40;
+}
