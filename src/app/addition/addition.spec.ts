@@ -49,6 +49,7 @@ describe('addition unit tests', () => {
         result = addition(0.0, 0.0);
         // Assert
         expect(result).toBe(0.0);
+        
     })
 
 })
