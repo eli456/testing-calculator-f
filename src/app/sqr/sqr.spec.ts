@@ -1,5 +1,4 @@
 import { sqr } from "./sqr"
-
 describe('sqr unit tests', () => {
     
     it('Should compute 2 ^ 2 = 4', () => {
@@ -41,7 +40,5 @@ describe('sqr unit tests', () => {
         // Assert
         expect(result).toBe(25);
     })
-
-   
 
 })
