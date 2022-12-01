@@ -1,5 +1,4 @@
 import { exp } from "./exp"
-
 describe('exp unit tests', () => {
     
     it('Should pow 2 ^ 0 = 1', () => {
@@ -14,7 +13,6 @@ describe('exp unit tests', () => {
         // Assert
         expect(result).toBe(1);
     })
-
     it('Should pow 2 ^ 1 = 2', () => {
         // Arrange
         let result = 0;
@@ -32,7 +30,6 @@ describe('exp unit tests', () => {
         // Assert
         expect(result).toBe(4);
     })
-
     it('Should pow 2 ^ 3 = 8', () => {
         // Arrange
         let result = 0;
@@ -41,6 +38,4 @@ describe('exp unit tests', () => {
         // Assert
         expect(result).toBe(8);
     })
-
-
 })
